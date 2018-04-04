@@ -1,2 +1,2 @@
 # Easy-Park
-Parking lot management system
+Parking management system
